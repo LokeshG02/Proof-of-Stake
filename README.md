@@ -8,14 +8,6 @@ In this repository you will get the source code for deploying a ERC721 Token on 
 
 ## Getting Started
 
-### Installing
-
-```
-npm i
-```
-
-to install all node dependencies required to run the project
-
 ### Executing program
 
 Setup all the environment variables below.
@@ -76,8 +68,4 @@ You will recieve the token address on running the deploy script.
 
 ## Authors
 
-Sain Biswas - [sain.biswas614@gmail.com]
-
-## License
-
-This project is licensed under the MIT License.
+Lokesh Gupta
